@@ -1,7 +1,7 @@
 # Vaporvape
 This is my Year 1 Semester 2 Web development project at ATU. It's about a fictional vape shop. The design was inspired by the vaporwave/synthwave/retrowave aesthetic.
 
-To check it out just visit this link: https://rootofminus1atu.github.io/Vaporvape/
+To check it out just visit this link: https://rootofminus1.github.io/Vaporvape/
 
 ### Disclaimer
 I do not vape.
